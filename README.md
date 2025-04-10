@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate engineer, creator, and educator, explorin
 - 🎮 **Solo Game Developer**  
    Building 3D physics-based prototypes with Unity & Blender  
 - 📚 **Educator & Lifelong Learner**  
-   Balancing online tuition, programming, martial arts, and barista skills
+   Balancing job, online tuition, programming, martial arts, and fitness
 
 ---
 
