@@ -28,7 +28,6 @@ Welcome to my GitHub! I'm a passionate engineer, creator, and educator, explorin
 ## 🔭 Currently Working On
 
 - 🎮 A physics-based 3D game prototype
-- 🚀 Expanding HornetByte’s services
 - 📘 Writing notes, code, and diagrams in Obsidian
 
 ---
