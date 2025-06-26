@@ -24,16 +24,16 @@ Welcome to my GitHub! I'm a passionate engineer, creator, and educator, explorin
 
 ---
 
-## 🔭 Currently Working On
+## 📽️ Recent Projects
 
 ### 🌐 RoanBD Website 
 *Web Developer | 2024-Present*  
 - Refactored company website into responsive Tailwind CSS design  
 - Hosted via GitHub Pages 
 
-### 🎮 Physics-based Puzzle Game (Prototype)
+### 🎮 Physics-based Game
 *Solo Game Developer | Unity | 2025*  
-- Designed game mechanics based on real-world mechanics (momentum, gravity)  
+- Designing game mechanics based on real-world mechanics (momentum, gravity)  
 
 ---
 ## 📺 Find Me Online
