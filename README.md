@@ -30,9 +30,9 @@ Welcome to my GitHub! I'm a passionate engineer, creator, and educator, explorin
 *Web Developer | 2025*  
 - Refactored company website into responsive Tailwind CSS design  
 - Hosted via GitHub Pages 
-- 
+
 ### 🎮 Physics-based Puzzle Game (Prototype)
-*Solo Game Developer | Unity | 2024-Present*  
+- *Solo Game Developer | Unity | 2024-Present*  
 - Designed game mechanics based on real-world mechanics (momentum, gravity)  
 
 ---
