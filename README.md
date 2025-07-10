@@ -20,7 +20,6 @@ Welcome to my GitHub! I'm a passionate engineer, creator, and educator, explorin
 - 💡 Embedded Systems, PLCs, and BMS Design
 - ⚙️ Unity3D • Blender • Web Dev (HTML, CSS, JS)
 - 🎓 Game Design | Physics Simulations | AI Projects
-- 📓 Sketchbook journaling | Ink drawing | Visual notetaking
 
 ---
 
