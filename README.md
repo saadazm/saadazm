@@ -7,6 +7,7 @@ Welcome to my GitHub! I'm a passionate engineer, creator, and educator, explorin
 ## 🧠 What I Do
 
 - 🛠️ **Senior IT Engineer @ ROAN Power and Engineering**
+- 🤖 **Researcher** | **IOT, Robotics, Cloud, Cybersecurity**
 - 🧪 **STEM Mentor** | Teaching Physics, Chemistry, and ICT to high schoolers
 - 🎮 **Solo Game Developer**  
    Building 3D physics-based prototypes with Unity & Blender  
