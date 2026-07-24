@@ -308,10 +308,10 @@ I am interested in collaborating on:
 
 ## 📺 Find Me Online
 
-* 🎥 Innovative Study Room on YouTube
-* 📷 Instagram
-* 📧 Email Me
-* 💼 LinkedIn
+* 🎥 [Innovative Study Room on YouTube](https://www.youtube.com/@innovativestudyroom)
+* 📷 [Instagram](https://www.instagram.com/saad.bin.azim)
+* 📧 [Email Me](mailto:saad.bnazm@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/saad-bin-azim-27a5a5119/)
 
 ---
 
