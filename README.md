@@ -42,8 +42,6 @@ A no-hardware IoT monitoring system that simulates energy data, publishes it thr
 **Technology:** Python, MQTT, Mosquitto, InfluxDB, Grafana, Docker
 **Focus:** IoT monitoring, anomaly detection, data pipelines, and system security
 
-> Repository and project documentation coming soon.
-
 ---
 
 ### 🌐 ROAN Company Website
@@ -59,8 +57,6 @@ A responsive company website designed and maintained for ROAN Power and Engineer
 * Refactored the website into a responsive layout
 * Improved its structure and visual consistency
 * Deployed and maintained the website through GitHub Pages
-
-> Add the live website and repository links here.
 
 ---
 
@@ -78,8 +74,6 @@ A practical cloud laboratory for learning deployment, networking, monitoring, au
 * Practiced service monitoring and troubleshooting
 * Explored cloud automation and secure infrastructure design
 
-> Add an architecture diagram, setup guide, and repository link here.
-
 ---
 
 ### 🎮 Physics-Based Unity Prototype
@@ -95,8 +89,6 @@ A solo game-development project focused on mechanics inspired by real-world phys
 * Created and tested prototype environments
 * Combined engineering concepts with interactive design
 
-> Add gameplay screenshots, videos, and a repository link here.
-
 ---
 
 ### 🖊️ Pixelsting Whiteboard
@@ -104,8 +96,6 @@ A solo game-development project focused on mechanics inspired by real-world phys
 A digital whiteboard concept created for drawing, teaching, visual explanation, and interactive learning.
 
 **Focus:** Educational technology, visual communication, and digital productivity
-
-> Add the application link, screenshots, source code, and development notes here.
 
 ---
 
@@ -122,8 +112,6 @@ Professional experience involving Building Management Systems, HVAC controls, SC
 * Sensor calibration and accuracy calculations
 * IQ, OQ, and PQ documentation
 * CFR Part 11-related validation support
-
-> Public case studies should exclude confidential client information.
 
 ---
 
